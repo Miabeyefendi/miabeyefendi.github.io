@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miabeyefendi.github.io/sitemap.xml
